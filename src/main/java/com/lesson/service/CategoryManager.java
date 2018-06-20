@@ -4,6 +4,9 @@ import com.lesson.model.Category;
 
 import java.util.List;
 
+/**
+ * 胡冉
+ */
 public interface CategoryManager {
     public List<Category> getAllCategories();
 
